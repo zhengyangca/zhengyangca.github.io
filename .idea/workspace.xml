@@ -20,8 +20,13 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="1386">
               <caret line="63" column="21" lean-forward="false" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+=======
+            <state relative-caret-position="376">
+              <caret line="78" column="13" lean-forward="true" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+>>>>>>> parent of f94f452... add meta for featured image
 =======
             <state relative-caret-position="376">
               <caret line="78" column="13" lean-forward="true" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
@@ -161,13 +166,20 @@
       <workItem from="1521849361028" duration="20000" />
       <workItem from="1522595687704" duration="2997000" />
       <workItem from="1522630976102" duration="469000" />
+<<<<<<< HEAD
+>>>>>>> parent of f94f452... add meta for featured image
+=======
 >>>>>>> parent of f94f452... add meta for featured image
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="7268000" />
+=======
+    <option name="totallyTimeSpent" value="12912000" />
+>>>>>>> parent of f94f452... add meta for featured image
 =======
     <option name="totallyTimeSpent" value="12912000" />
 >>>>>>> parent of f94f452... add meta for featured image
@@ -217,7 +229,10 @@
   </component>
   <component name="editorHistoryManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of f94f452... add meta for featured image
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -372,8 +387,13 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="1386">
           <caret line="63" column="21" lean-forward="false" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+=======
+        <state relative-caret-position="376">
+          <caret line="78" column="13" lean-forward="true" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+>>>>>>> parent of f94f452... add meta for featured image
 =======
         <state relative-caret-position="376">
           <caret line="78" column="13" lean-forward="true" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
