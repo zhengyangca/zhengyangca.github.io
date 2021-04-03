@@ -1,0 +1,5 @@
+dispatch:
+  - url: "flowchart.zhengyang.ca/*"
+    service: zheng-flowchart
+  - url: "flowchart.zhengyang.ca/"
+    service: zheng-flowchart
